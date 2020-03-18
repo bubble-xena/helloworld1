@@ -1,0 +1,3 @@
+/Users/xiaosiqi/CLionProjects/helloworld1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiaosiqi/CLionProjects/helloworld1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiaosiqi/CLionProjects/helloworld1/cmake-build-debug/CMakeFiles/helloworld1.dir
